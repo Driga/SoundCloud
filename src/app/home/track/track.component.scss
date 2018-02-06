@@ -1,0 +1,16 @@
+.track {
+  div[class*="col"] {
+    outline: 1px solid rgb(81, 81, 81);
+    padding: 10px;
+  }
+
+  .track-logo {
+    height: 60px;
+  }
+
+
+  .track-socials div {
+    width: 50px;
+    float: left;
+  }
+}
